@@ -11,6 +11,6 @@ real-time signal processing
 high bandwidth IO
 low latency control
 
-The primary purpose of RYNQ is to provide similar durability
+The primary purpose of RYNQ is to provide similar useability
 As PYNQ but using Rust instead to enable highly productive development of hardware
 Accelerated mission critical systems.
